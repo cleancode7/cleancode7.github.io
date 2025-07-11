@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; margin: 2em; }
+header, main, footer { margin-bottom: 2em; }
+form label { display: block; margin-top: 1em; }
+form input, form textarea { width: 100%; padding: 0.5em; margin-top: 0.5em; }
+form button { margin-top: 1em; padding: 0.75em 1.5em; }
